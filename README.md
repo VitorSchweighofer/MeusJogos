@@ -1,2 +1,6 @@
 # MeusJogos
-Jogos que eu criei no gamemaker
+Alguns jogos que criei no gamemaker
+
+LPL = jogo criado para um trabalho de portugues, foi feito em menos de 24 horas
+Jogo do aquario = jogo criado para o trabalho da viagem de estudos, jogo criado em menos de 48 horas
+Alpha = jogo criado para trabalho no final do terceiro ano, feito em menos de 48 horas
